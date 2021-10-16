@@ -52,7 +52,7 @@ function loadData(){
     confirm_courses.textContent = yourCourses
 }
 function easy (){
-    window.location = "indexfour.html"
+    window.location = "https://vietmrvu.github.io/confirm/"
 }
 function init (){
     loadData();
